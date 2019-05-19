@@ -11,7 +11,7 @@ class NoMatch extends Component {
           <h2>No Match </h2>
         </div>
         <p className="App-intro">
-          To get started and save to reload.
+          url entered does not render a page
         </p>
       </div>
     );

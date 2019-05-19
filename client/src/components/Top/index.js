@@ -8,8 +8,8 @@ function Top() {
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
   <Navbar.Collapse id="basic-navbar-nav">
     <Nav className="mr-auto">
-      <Nav.Link href="#home">Saved</Nav.Link>
-      <Nav.Link href="#link">Search</Nav.Link>
+      <Nav.Link href="/">Saved</Nav.Link>
+      <Nav.Link href="/books">Search</Nav.Link>
     </Nav>
   </Navbar.Collapse>
 </Navbar>
